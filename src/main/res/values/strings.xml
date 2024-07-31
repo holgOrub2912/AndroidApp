@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiRestaurante</string>
+    <string name="app_menu">Conoce nuestro menu</string>
+    <string name="app_sede">Visita nuestras sedes</string>
+    <string name="app_reserva">Realiza tu reserva</string>
+    <string name="app_pedido">Realiza tu pedido</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
